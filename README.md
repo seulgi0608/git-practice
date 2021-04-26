@@ -9,3 +9,4 @@ clone 하기
 
 1.  파일 수정 후 add, commit, push
 2.  폴더를 소스트리에 추가하고 pull 받기
+3.  싫어요
